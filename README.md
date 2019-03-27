@@ -20,4 +20,5 @@ This assignment is divided into two parts(10+10 Marks). Part Two can only be don
 - We have also provided with a list of suggestions you can try out to improve your model and obtain a better score.
 - Finally, you will be marked on your final score on Kaggle, for which you also have to submit a source file which can reproduce the same score. Marking here will be relative, given the source file is okay, the top 10 percentile will get 10 Marks and the next 10 percentile 9 marks and so on. Though the marking scheme is not fixed as of now, we will update you with the marking scheme later.
 - Link to the Kaggle competition and related instructions will be provided soon.
+
 Deadline of this assignment is 7th April 2019 11:59 pm.
